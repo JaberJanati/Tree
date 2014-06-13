@@ -1,0 +1,10 @@
+Given a file species.txt, when the main_tree.cpp file runs it reads the file and sorts the 
+data by species with the closest number value then creates a parent node of the average of the two 
+values and so forth. 
+
+When two numbers are not closer to each other the program creates right side of the tree to store
+values and process continues until species are sorted. 
+
+Then the resulting text is printed where
+"(" represents how left in the the the species has been sorted and ) means right  when a opening and
+closing parenthesis are found it means we move one level up the tree.
