@@ -1,0 +1,6 @@
+human 9
+ape 11
+monkey 14
+tiger 50
+lion 55
+Elephant 76
