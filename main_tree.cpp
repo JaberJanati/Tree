@@ -1,6 +1,6 @@
 /******************************************************************************************************************************
 Title: Tree Program
-Author: Jaber Janati
+Author: Jaber
 Date Created On: May 15, 2014
 Description: Program asks user for a file to read. The programs checks if the file exists and then reads from it, the data is later
 sorted based on the score value then put into a tree. The tree is then sorted by checking if two nodes are close to each other in
